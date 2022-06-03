@@ -1,0 +1,5 @@
+hi this a demo pratical of WAD
+name: gopal
+Subject: WAD
+date: 2/6/22
+pratical: github
